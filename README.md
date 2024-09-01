@@ -1,0 +1,1 @@
+This project combines the power of blockchain technology and deep learning to enhance network security. It provides a robust framework for securing network communications through decentralized blockchain mechanisms while employing advanced deep learning algorithms to detect and mitigate Distributed Denial-of-Service (DDoS) attacks in real-time.
